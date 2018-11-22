@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeRefactoring/SeparatedConcernController.swift"
+            timestampString = "564580458.248281"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "performDataFetch()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CodeRefactoring/SeparatedConcernController.swift"
+            timestampString = "564580458.248745"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "performDataFetch()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "CodeRefactoring.SeparatedConcernController.(performDataFetch in _121B9331AF2C8E3AC4AD99C781B8EB2A)() -&gt; ()"
+                  moduleName = "CodeRefactoring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eodz/Documents/Personal/CodeRefactoring/CodeRefactoring/SeparatedConcernController.swift"
+                  timestampString = "564580458.2992229"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "78">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (CodeRefactoring.HomeFeed) -&gt; () in CodeRefactoring.SeparatedConcernController.(performDataFetch in _121B9331AF2C8E3AC4AD99C781B8EB2A)() -&gt; ()"
+                  moduleName = "CodeRefactoring"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/eodz/Documents/Personal/CodeRefactoring/CodeRefactoring/SeparatedConcernController.swift"
+                  timestampString = "564580458.322733"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "26"
+                  endingLineNumber = "26"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
